@@ -116,10 +116,35 @@ console.log(print6);*/
 
 //string.slice(start,end)
 
-const fullName = "GALLA PRUDHVI RAJ"
+//const fullName = "GALLA PRUDHVI RAJ"
 //let firstName = fullName.slice(0,5);
 //let lastName = fullName.slice(14,18);
-let firstName = fullName.slice(0,fullName.indexOf(" "));
-let lastName = fullName.slice(fullName.indexOf(" ")+1);
-console.log(firstName);
-console.log(lastName);
+//let firstName = fullName.slice(0,fullName.indexOf(" "));
+//let lastName = fullName.slice(fullName.indexOf(" ")+1);
+//console.log(firstName);
+//console.log(lastName);
+
+
+
+
+
+//DAY - 5
+
+//Method chaining = calling one method for another in one continuous ine of code 
+
+
+//let userName = window.prompt("Enter your USERNAME");
+
+// ----------- NO METHOD CHAINING ------------
+//userName = userName.trim();
+//let letter = userName.charAt(0);
+//letter = letter.toUpperCase();
+//let extraChars = userName.slice(1);
+//extraChars = extraChars.toLowerCase();
+//userName = letter + extraChars;
+//console.log(userName);
+
+
+// ----------- METHOD CHAINING --------------
+//userName = userName.trim().charAt(0).toUpperCase() + userName.trim().slice(1).toLowerCase();
+//console.log(userName);
