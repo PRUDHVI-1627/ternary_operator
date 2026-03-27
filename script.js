@@ -111,3 +111,15 @@ console.log(print6);*/
 
 
 //DAY - 4
+
+//string slicing = creating a substring from a portion of another string
+
+//string.slice(start,end)
+
+const fullName = "GALLA PRUDHVI RAJ"
+//let firstName = fullName.slice(0,5);
+//let lastName = fullName.slice(14,18);
+let firstName = fullName.slice(0,fullName.indexOf(" "));
+let lastName = fullName.slice(fullName.indexOf(" ")+1);
+console.log(firstName);
+console.log(lastName);
