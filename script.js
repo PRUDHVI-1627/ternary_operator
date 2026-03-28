@@ -148,3 +148,34 @@ console.log(print6);*/
 // ----------- METHOD CHAINING --------------
 //userName = userName.trim().charAt(0).toUpperCase() + userName.trim().slice(1).toLowerCase();
 //console.log(userName);
+
+
+
+
+
+
+//DAY - 6
+
+//OGICAL OPERATORS = used to combine or manipulate boolean values (true or false)
+
+//AND = &&
+//OR = ||
+//NOT = !
+
+
+/*const temp = 20;
+if(temp>0){
+    console.log("The weather is good!");
+}
+else if(temp<=30){
+    console.log("The weather is good!");
+}
+else{
+    console.log("The weather is bad!");
+}
+
+
+const temp1 = 20;
+if(temp1>0 || temp<=30){
+    console.log("The weather is good!");
+}*/
