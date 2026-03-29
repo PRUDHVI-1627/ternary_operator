@@ -179,3 +179,11 @@ const temp1 = 20;
 if(temp1>0 || temp<=30){
     console.log("The weather is good!");
 }*/
+
+const isTrue = true;
+if(!isTrue){
+    console.log("It is Cloudy outside");
+}
+else{
+    console.log("It is Sunny outside");
+}
