@@ -217,3 +217,29 @@ else{
     console.log("This is not PI1");
 }
 */
+
+
+
+
+
+
+//DAY - 8
+
+// while loop = repeat some code WHILE some code is true
+
+/*let loggedIn = false;
+let username;
+let password;
+
+while(!loggedIn){
+    username = window.prompt("Enter you username");
+    password = window.prompt("Enter you password");
+
+    if(username ==="myUsername" && password ==="myPassword"){
+        loggedIn = true;
+        console.log("You are logged in!");
+    }
+    else{
+        console.log("Invalid Credentials, Please try again!");
+    }
+}*/
