@@ -243,3 +243,24 @@ while(!loggedIn){
         console.log("Invalid Credentials, Please try again!");
     }
 }*/
+
+
+
+
+
+
+//DAY - 9
+
+// FOR LOOP = repeat some code a LIMITED amount of time
+
+for(let i = 0; i<=2; i++){
+    console.log("hello");
+}
+
+
+for(let i = 1; i<=20; i++){
+    if(i==13){
+        break;
+    }
+    console.log(i);
+}
