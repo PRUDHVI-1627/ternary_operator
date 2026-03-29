@@ -180,10 +180,40 @@ if(temp1>0 || temp<=30){
     console.log("The weather is good!");
 }*/
 
-const isTrue = true;
+/*const isTrue = true;
 if(!isTrue){
     console.log("It is Cloudy outside");
 }
 else{
     console.log("It is Sunny outside");
+}*/
+
+
+
+
+
+//DAY - 7
+
+// =ASSIGNMENT OPERATOR
+// == COMPARISION OPERATOR (compares if two values are equal)
+// === STRICT EQUALITY OPERATOR (compares if values and datatypes are equal)
+// != INEQUALITY OPERATOR
+// !== STRICT INEQUALITY OPERATOR
+
+/*const PI = 3.14;
+if (PI=="3.14"){
+    console.log("This is PI");
 }
+else{
+    console.log("This is not PI");
+}
+
+
+const PI1 = 3.14;
+if (PI1==="3.14"){
+    console.log("This is PI1");
+}
+else{
+    console.log("This is not PI1");
+}
+*/
