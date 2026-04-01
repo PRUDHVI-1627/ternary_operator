@@ -264,3 +264,29 @@ for(let i = 1; i<=20; i++){
     }
     console.log(i);
 }*/
+
+
+
+
+//DAY - 10
+
+//Function = a section of reusable code . declare code once, use it whenever you want. call the functionto execute that code.
+
+/*function happyBirthDay(username, age){
+    console.log("Happy Birthday to you!");
+    console.log("Happy Birthday to you!");
+    console.log(`Happy Birthday dear ${username}!`);
+    console.log("Happy Birthday to you!");
+    console.log(`You are ${age} old`);
+}
+happyBirthDay("Prudhvi", 20);
+happyBirthDay(); // will execute 2 times*/
+
+//with return
+
+/*function add(x, y){
+    let result = x + y;
+    return result;
+}
+let answer = add(2,3);
+comsole.log(answer);*/
