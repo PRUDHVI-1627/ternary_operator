@@ -290,3 +290,36 @@ happyBirthDay(); // will execute 2 times*/
 }
 let answer = add(2,3);
 comsole.log(answer);*/
+
+
+
+
+
+//DAY - 11
+
+//Variable scope = where a variable is recognized nd accessible (local vs global)
+
+
+//local scope
+/*function1();
+function function1(){
+    let x = 1;
+    console.log(x);
+}
+
+function function2(){
+    let x = 2;
+    console.log(x);
+}
+
+//global scope
+
+let x = 1;
+function1();
+function function1(){
+    console.log(x);
+}
+
+function function2(){
+    console.log(x);
+}*/
