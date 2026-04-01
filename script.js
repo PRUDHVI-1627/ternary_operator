@@ -253,7 +253,7 @@ while(!loggedIn){
 
 // FOR LOOP = repeat some code a LIMITED amount of time
 
-for(let i = 0; i<=2; i++){
+/*for(let i = 0; i<=2; i++){
     console.log("hello");
 }
 
@@ -263,4 +263,4 @@ for(let i = 1; i<=20; i++){
         break;
     }
     console.log(i);
-}
+}*/
