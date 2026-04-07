@@ -372,3 +372,22 @@ console.log(letters);*/
 //              3. interacting with databases
 //"Hey, when you are done, call this next."
 
+/*hello(goodbye);
+
+function hello(callback){
+    console.log("hello");
+    callback();
+}
+
+function goodbye(){
+    console.log("goodbye");
+}
+sum(displayConsole,1,2);
+function sum(callback,x,y){
+    let result = x+y;
+    callback(result);
+}
+
+function displayConsole(result){
+    console.log();
+}*/
