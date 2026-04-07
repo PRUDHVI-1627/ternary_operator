@@ -391,3 +391,13 @@ function sum(callback,x,y){
 function displayConsole(result){
     console.log();
 }*/
+
+
+
+
+
+
+
+//DAY - 15
+//.map() = accepts a callbackand applies a function to each element of an array, then return a new array
+
