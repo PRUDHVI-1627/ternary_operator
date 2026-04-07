@@ -332,10 +332,24 @@ function function2(){
 //DAY - 12
 //ARRAY = a variable like structure that can hold more than 1 value
 
-let fruits = ["apple", "banana", "orange"];
+/*let fruits = ["apple", "banana", "orange"];
 console.log(fruits);
 fruits[1] = "guava";
 //fruits.push("coconut");
 console.log(fruits[1]);
 console.log(fruits[2]);
-console.log(fruits[0]);
+console.log(fruits[0]);*/
+
+
+
+
+
+//DAY - 13
+//SPREAD OPERATOR = ...allows an iterable such as an arrayor string to be expanded into eperate elements (unpacks the elements).
+
+
+let numbers = [1,2,3,4,5];
+let maximum = Math.max(...numbers);
+let minimum = Math.min(...numbers);
+console.log(maximum);
+console.log(minimum);
