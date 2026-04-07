@@ -358,3 +358,17 @@ console.log(minimum);
 let username = "Prudhvi Raj"
 let letters = [...username].join("-");
 console.log(letters);*/
+
+
+
+
+
+
+//DAY - 14
+//CALLBACKS = a function that is passed as an argument to another function.
+//              used to handle asynchronous operations:
+//              1. reading a file
+//              2. network requests
+//              3. interacting with databases
+//"Hey, when you are done, call this next."
+
