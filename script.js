@@ -323,3 +323,19 @@ function function1(){
 function function2(){
     console.log(x);
 }*/
+
+
+
+
+
+
+//DAY - 12
+//ARRAY = a variable like structure that can hold more than 1 value
+
+let fruits = ["apple", "banana", "orange"];
+console.log(fruits);
+fruits[1] = "guava";
+//fruits.push("coconut");
+console.log(fruits[1]);
+console.log(fruits[2]);
+console.log(fruits[0]);
