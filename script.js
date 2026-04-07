@@ -348,8 +348,13 @@ console.log(fruits[0]);*/
 //SPREAD OPERATOR = ...allows an iterable such as an arrayor string to be expanded into eperate elements (unpacks the elements).
 
 
-let numbers = [1,2,3,4,5];
+/*let numbers = [1,2,3,4,5];
 let maximum = Math.max(...numbers);
 let minimum = Math.min(...numbers);
 console.log(maximum);
 console.log(minimum);
+
+
+let username = "Prudhvi Raj"
+let letters = [...username].join("-");
+console.log(letters);*/
